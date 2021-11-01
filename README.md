@@ -1,4 +1,4 @@
 # Expenses Tracker
 
-This is a aimple personal expenses tracker build using Flutter
+This is a simple personal expenses tracker build using Flutter
 
